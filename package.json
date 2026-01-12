@@ -2,7 +2,7 @@
   "name": "kraken-the-kode",
   "displayName": "Kraken The Kode",
   "description": "Custom purple italic theme for all the purple loving coders out there",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "KrakenTheKode",
   "engines": {
     "vscode": "*"
@@ -30,5 +30,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Ametherius/krakenthekodetheme.git"
-  }
+  },
+  "license": "MIT"
 }
