@@ -1,0 +1,21 @@
+{
+  "name": "kraken-the-kode",
+  "displayName": "Kraken The Kode",
+  "description": "Custom purple italic theme for all the purple loving coders out there",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kraken The Kode Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kraken The Kode Italic-color-theme.json"
+      }
+    ]
+  }
+}
