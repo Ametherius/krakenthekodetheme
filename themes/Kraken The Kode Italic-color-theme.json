@@ -317,6 +317,14 @@
       }
     },
     {
+      "name": "JSX Syntax",
+      "scope": ["meta.tag.jsx", "entity.name.tag.open.jsx"],
+      "settings": {
+        "foreground": "#7200be",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Deleted",
       "scope": ["markup.deleted"],
       "settings": {
